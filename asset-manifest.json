@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dorsin-0911-home-teen/static/css/main.3439a8c9.chunk.css",
+    "main.js": "/dorsin-0911-home-teen/static/js/main.d2b1fcd0.chunk.js",
+    "main.js.map": "/dorsin-0911-home-teen/static/js/main.d2b1fcd0.chunk.js.map",
+    "runtime-main.js": "/dorsin-0911-home-teen/static/js/runtime-main.ffc1b516.js",
+    "runtime-main.js.map": "/dorsin-0911-home-teen/static/js/runtime-main.ffc1b516.js.map",
+    "static/js/2.e16cef02.chunk.js": "/dorsin-0911-home-teen/static/js/2.e16cef02.chunk.js",
+    "static/js/2.e16cef02.chunk.js.map": "/dorsin-0911-home-teen/static/js/2.e16cef02.chunk.js.map",
+    "static/js/3.cf5f576e.chunk.js": "/dorsin-0911-home-teen/static/js/3.cf5f576e.chunk.js",
+    "static/js/3.cf5f576e.chunk.js.map": "/dorsin-0911-home-teen/static/js/3.cf5f576e.chunk.js.map",
+    "index.html": "/dorsin-0911-home-teen/index.html",
+    "static/css/main.3439a8c9.chunk.css.map": "/dorsin-0911-home-teen/static/css/main.3439a8c9.chunk.css.map",
+    "static/js/2.e16cef02.chunk.js.LICENSE.txt": "/dorsin-0911-home-teen/static/js/2.e16cef02.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/dorsin-0911-home-teen/static/media/bg-home.54f33acf.jpg",
+    "static/media/blog1.92858176.jpg": "/dorsin-0911-home-teen/static/media/blog1.92858176.jpg",
+    "static/media/blog2.61d6433c.jpg": "/dorsin-0911-home-teen/static/media/blog2.61d6433c.jpg",
+    "static/media/blog3.e02d8424.jpg": "/dorsin-0911-home-teen/static/media/blog3.e02d8424.jpg",
+    "static/media/feature.css": "/dorsin-0911-home-teen/static/media/img1.8a3436d8.jpg",
+    "static/media/teamHai.css": "/dorsin-0911-home-teen/static/media/img2.03c94a50.jpg",
+    "static/media/online-world.3a222d0d.svg": "/dorsin-0911-home-teen/static/media/online-world.3a222d0d.svg",
+    "static/media/payment.57ed5283.png": "/dorsin-0911-home-teen/static/media/payment.57ed5283.png",
+    "static/media/team1.10c56f8a.jpg": "/dorsin-0911-home-teen/static/media/team1.10c56f8a.jpg",
+    "static/media/team2.ca8041d7.jpg": "/dorsin-0911-home-teen/static/media/team2.ca8041d7.jpg",
+    "static/media/team3.b6cd3b7b.jpg": "/dorsin-0911-home-teen/static/media/team3.b6cd3b7b.jpg",
+    "static/media/team4.6ab39f2f.jpg": "/dorsin-0911-home-teen/static/media/team4.6ab39f2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffc1b516.js",
+    "static/js/2.e16cef02.chunk.js",
+    "static/css/main.3439a8c9.chunk.css",
+    "static/js/main.d2b1fcd0.chunk.js"
+  ]
+}
