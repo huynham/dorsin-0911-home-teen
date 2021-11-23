@@ -18,7 +18,7 @@ function Home(){
                                 "value": 200,
                             },
                             "size": {
-                                "value": 5,
+                                "value": 6,
                             }
                         },
                         "move": {
